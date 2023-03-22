@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ravishukla" target="blank"><span style="color:red">Linkedin:</span> https://linkedin.com/in/ravishukla</a>
+  <a href="https://www.linkedin.com/in/ravi-shukla-883b771b2" target="blank"><span style="color:red">Linkedin:</span> "https://www.linkedin.com/in/ravi-shukla-883b771b2/)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
