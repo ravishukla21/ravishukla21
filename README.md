@@ -13,7 +13,7 @@
 
 - 📝 Portfolio [https://ravishukla21.github.io/](https://ravishukla21.github.io/)
 
-- 📫 How to reach me **ravi21.434@gmail.com**
+- 📫 My Email-id  **ravi21.434@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
