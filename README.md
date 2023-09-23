@@ -4,8 +4,9 @@
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ravishukla21" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishukla21&label=Profile%20views&color=0e75b6&style=flat" alt="ravishukla21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravishukla21&label=Profile%20views&color=0e75b6&style=flat" alt="ravishukla21" /> </p>
 <h1></h1>
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishukla21" alt="ravishukla21" /></a> </p>
 
