@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm RAVI SHUKLA</h1>
 <h3 align="center">A Passionate Full-Stack Developer (MERN)</h3>
 <p align="center">Passionate about building web applications and exploring cutting-edge technologies</p>
+<div>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ravishukla21" />
+  
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravishukla21&label=Profile%20views&color=0e75b6&style=flat" alt="ravishukla21" /> </p>
