@@ -5,8 +5,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishukla21&label=Profile%20views&color=0e75b6&style=flat" alt="ravishukla21" /> </p>
+<h1></h1>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishukla21" alt="ravishukla21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishukla21" alt="ravishukla21" /></a> </p>
 
 - 🌱 I’m currently learning **REACT,HTML,JavaScript,CSS,Node.js,Mongo DB,Express**
 
