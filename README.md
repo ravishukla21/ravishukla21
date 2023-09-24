@@ -15,7 +15,7 @@
 
 <p align="left" width="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishukla21" alt="ravishukla21" /></a> </p>
 
-- 🌱 I’m currently learning **REACT,HTML,JavaScript,CSS,Node.js,Mongo DB,Express**
+- 🌱 I’m currently learning **REACT, HTML, JavaScript, CSS, Node.js, Mongo DB, Express**
 
 - 👨‍💻 All of my projects are available at [https://ravishukla21.github.io](https://ravishukla21.github.io)
 
