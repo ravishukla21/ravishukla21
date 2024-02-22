@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ravishukla21.github.io](https://ravishukla21.github.io)
 
-- 📝 Portfolio [https://ravishukla21.github.io/](https://ravishukla21.github.io/)
+- 📝 Portfolio [https://ravishukla21.github.io/](https://ravishukla2.github.io/)
 
 - 📫 My Email-id  **ravi21.434@gmail.com**
 
