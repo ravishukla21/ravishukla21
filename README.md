@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **REACT,     HTML, JavaScript, CSS, Node.js, Mongo DB, Express**
 
-- 👨‍💻 All of my projects are available at [https://ravishukla21.github.io](https://ravishukla21.github.io)
+- 👨‍💻 All of my projects are available at [https://ravishukla21.github.io](https://ravishukla2.github.io)
 
 - 📝 Portfolio [https://ravishukla21.github.io/](https://ravishukla2.github.io/)
 
